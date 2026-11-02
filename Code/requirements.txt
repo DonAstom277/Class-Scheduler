@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openpyxl
+pandas
+python-multipart
+passlib[argon2]
+python-jose[cryptography]
+python-dotenv
